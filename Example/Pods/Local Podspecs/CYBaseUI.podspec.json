@@ -1,0 +1,22 @@
+{
+  "name": "CYBaseUI",
+  "version": "0.1.0",
+  "summary": "A short description of CYBaseUI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cycy999/CYBaseUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cycy999": "cycy163163@163.com"
+  },
+  "source": {
+    "git": "https://github.com/cycy999/CYBaseUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CYBaseUI/Classes/**/*"
+}

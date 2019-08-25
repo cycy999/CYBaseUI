@@ -1,0 +1,6 @@
+framework module CYBaseUI {
+  umbrella header "CYBaseUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CYBaseUI_Example' do
+  pod 'CYBaseUI', :path => '../'
+
+  target 'CYBaseUI_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
